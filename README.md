@@ -33,7 +33,7 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
    - Syifa Alya Rahmadhani  ( C169DKY4817 )
  
  # Theme
- Post-Pandemic and Emergency Responses
+ Post-Pandemic and Emergency Responses.
  
 
 
