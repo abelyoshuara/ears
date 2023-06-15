@@ -1,7 +1,8 @@
+<div align="center">
 <img src="assets/Capstone.jpg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=EARS;Emergency+Automated+Responce+System" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B83308&center=true&vCenter=true&multiline=true&width=450&height=100&lines=EARS;Emergency+Automated+Responce+System" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+</div>
 # EARS (Emergency Automated Responce System)
 
 EARS Project
