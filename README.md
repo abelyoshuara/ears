@@ -20,7 +20,7 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Jonathan%20Adrian&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 </div>
 
-*The Team*
+# The Team
 - Machine Learning Cohort 
   Halida Meiza ( M166DSY0404 )
   Adam Ramdan ( M257DSX0114 )
@@ -32,7 +32,7 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
   Jonathan Adrian Chandra ( C351DSX0762 ) 
   Syifa Alya Rahmadhani  ( C169DKY4817 )
  
- *Theme*
+ #Theme
  Post-Pandemic and Emergency Responses
  
 
