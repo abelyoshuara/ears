@@ -6,11 +6,11 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 
 <div align="center">
 <h1>~Follow The Team~ 😆</h1>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Adam%20Mail&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Adam%20Ramdan&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Halida%20Meiza&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Raihanna%20Ilfa%20W&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Pande%20Komang&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Syifa%20Alya&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
-<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Jonathan%20Adrian&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Adam%20Mail&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Adam%20Ramdan&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Halida%20Meiza&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Raihanna%20Ilfa%20W&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Pande%20Komang&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Syifa%20Alya&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
+<a href="https://github.com/ar-kun/ar-kun" target="_blank"><img alt="Github" src="https://img.shields.io/github/url?label=Jonathan%20Adrian&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 </div>
