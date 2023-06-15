@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="assets/Capstone.jpg">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B83308&center=true&vCenter=true&multiline=true&width=450&height=100&lines=EARS;Emergency+Automated+Responce+System" alt="Typing SVG" /></a>
@@ -35,7 +36,4 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
  # Theme
  Post-Pandemic and Emergency Responses.
  
-
-
-
 
