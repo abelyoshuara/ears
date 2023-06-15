@@ -21,19 +21,21 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 </div>
 
 *The Team*
-import pandas as pd
+- Machine Learning Cohort 
+  Halida Meiza ( M166DSY0404 )
+  Adam Ramdan ( M257DSX0114 )
+  Adam Mail ( M038DSX3055 )
+- Mobile Development Cohort 
+  Raihanna Ilfa Widjayanti Roilan ( A1234M1234 )
+- Cloud Computing Cohort 
+  Pande Komang Abel Edgar Yoshuara ( C028DSX3138 ) 
+  Jonathan Adrian Chandra ( C351DSX0762 ) 
+  Syifa Alya Rahmadhani  ( C169DKY4817 )
+ 
+ *Theme*
+ Post-Pandemic and Emergency Responses
+ 
 
-data = {
-    'Nama': ['Halida Meiza', 'Adam Ramdan', 'Adam Mail', 'Raihanna Ilfa Widjayanti Roilan', 'Pande Komang Abel Edgar Yoshuara', 'Jonathan Adrian Chandra', 'Syifa Alya Rahmadhani'],
-    'Bangkit ID': ['M166DSY0404', 'M257DSX0114', 'M038DSX3055', 'A1234M1234', 'C028DSX3138', 'C351DSX0762', 'C169DKY4817'],
-    'Learning Path': ['Machine Learning', 'Machine Learning', 'Machine Learning', 'Mobile Development', 'Cloud Computing', 'Cloud Computing', 'Cloud Computing']
-}
 
-df = pd.DataFrame(data)
 
-# Mengatur penjajaran rata kanan pada setiap kolom
-df_styled = df.style.set_properties(**{'text-align': 'right'})
-
-# Mencetak tabel dengan penjajaran rata kanan
-print(df_styled.render())
 
