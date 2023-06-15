@@ -1,0 +1,5 @@
+numpy
+scipy
+folium
+requests
+firebase-admin
