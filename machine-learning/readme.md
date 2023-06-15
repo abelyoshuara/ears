@@ -9,3 +9,11 @@ This repository used for Data Preprocessing and creating the model for EARS. We 
 # Data Collecting 
 
 # Creating Model 
+
+# Graf
+<div align="center" style="display:flex;">
+<img style="width:45%" src="./../assets/loss.png">
+<img style="width:45%" src="./../assets/accuracy.png">
+<img style="width:45%" src="./../assets/mse.png">
+
+</div>
