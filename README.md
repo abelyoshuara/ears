@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B83308&center=true&vCenter=true&multiline=true&width=450&height=100&lines=EARS;Emergency+Automated+Responce+System" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-# EARS (Emergency Automated Responce System)
+<h1>EARS (Emergency Automated Responce System)</h1>
 
 EARS Project
 An Android mobile-based emergency call application that simplifies the process for patients to call an ambulance. It utilizes geolocation filtering, allowing users to quickly access the nearest ambulance during a crisis to overcome the critical "golden hours."
