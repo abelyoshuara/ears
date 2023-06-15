@@ -5,7 +5,7 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 
 
 <div align="center">
-<h1>~Follow The Team 😆</h1>
+<h1>~Follow The Team~ 😆</h1>
 <a href="[https://github.com/ar-kun/ar-kun](https://github.com/ar-kun/ar-kun)"><img alt="Github" src="https://img.shields.io/twitter/url?label=Adam%20Mail&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 <a href="[https://github.com/ar-kun/ar-kun](https://github.com/ar-kun/ar-kun)"><img alt="Github" src="https://img.shields.io/twitter/url?label=Adam%20Ramdan&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 <a href="[https://github.com/ar-kun/ar-kun](https://github.com/ar-kun/ar-kun)"><img alt="Github" src="https://img.shields.io/twitter/url?label=Halida%20Meiza&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
