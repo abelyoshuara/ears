@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5px">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="380dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:cardCornerRadius="20dp"
+        app:cardMaxElevation="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageHome"
+                android:layout_width="130dp"
+                android:layout_height="130dp"
+                android:scaleType="centerCrop"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="1:1"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@tools:sample/avatars" />
+
+
+            <TextView
+                android:id="@+id/txtNamaRumahSakit"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:text="Rumah Sakit ???"
+                android:textAlignment="center"
+                android:textColor="#050505"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/imageHome"
+                app:layout_constraintTop_toTopOf="@+id/imageHome" />
+
+            <TextView
+                android:id="@+id/txtSpesialis"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="5dp"
+                android:text="Spesialis ???"
+                android:textAlignment="center"
+                android:textColor="#0B0808"
+                android:textSize="14sp"
+                app:layout_constraintStart_toEndOf="@+id/imageHome"
+                app:layout_constraintTop_toBottomOf="@+id/txtNamaRumahSakit" />
+
+            <TextView
+                android:id="@+id/txtAsuransi"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="5dp"
+                android:text="Asuransi : "
+                android:textAlignment="center"
+                android:textColor="#0B0808"
+                android:textSize="14sp"
+                app:layout_constraintStart_toEndOf="@+id/imageHome"
+                app:layout_constraintTop_toBottomOf="@+id/txtSpesialis" />
+
+            <TextView
+                android:id="@+id/txtAlamat"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="10dp"
+                android:text="Jl. Rajawali"
+                android:textAlignment="center"
+                android:textColor="#0B0808"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/imageHome"
+                app:layout_constraintTop_toBottomOf="@+id/txtAsuransi" />
+
+            <ImageButton
+                android:id="@+id/btnLocate"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@null"
+                android:minHeight="48dp"
+                android:src="@drawable/ic_baseline_location_on_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:map="http://schemas.android.com/apk/res-auto">
+
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="295dp"
+        android:layout_height="49dp"
+        android:padding="10dp"
+        android:background="@drawable/roundedcorner"
+        android:queryHint="@string/cari_rumah_sakit"
+        android:queryBackground="@android:color/transparent"
+        app:layout_constraintBottom_toTopOf="@+id/callAmbulance"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.138" />
+
+
+    <Button
+        android:id="@+id/callAmbulance"
+        android:layout_width="227dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="36dp"
+        android:backgroundTint="@color/red"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/Ambulance"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <fragment
+        android:id="@+id/Map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="334dp"
+        android:background="@drawable/roundedcorner"
+        android:layout_height="437dp"
+        app:layout_constraintVertical_bias="0.6"
+        map:layout_constraintBottom_toBottomOf="parent"
+        map:layout_constraintEnd_toEndOf="parent"
+        map:layout_constraintStart_toStartOf="parent"
+        map:layout_constraintTop_toTopOf="parent"
+        tools:context="com.example.mapwithmarker.MainActivity"
+        tools:layout="@layout/activity_main" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        map:layout_constraintBottom_toBottomOf="parent"
+        map:layout_constraintEnd_toEndOf="parent"
+        map:layout_constraintStart_toStartOf="parent"
+        map:layout_constraintTop_toTopOf="parent"
+        android:elevation="10dp"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>
