@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ears Project</string>
+    <string name="email_hint">Masukan Email</string>
+    <string name="password_hint">Password</string>
+    <string name="Sign_in">Signin</string>
+    <string name="donthave">Don\'t have account?</string>
+    <string name="SignUp">SignUp</string>
+    <string name="cari_rumah_sakit">Cari rumah sakit</string>
+    <string name="Ambulance">Call Ambulance</string>
+    <string name="Sign_up">Sign Up</string>
+</resources>

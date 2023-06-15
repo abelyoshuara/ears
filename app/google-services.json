@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061867922589",
+    "project_id": "ears-project-1",
+    "storage_bucket": "ears-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061867922589:android:745e31e14c23214c792074",
+        "android_client_info": {
+          "package_name": "com.example.earsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061867922589-evgj8oc8toc1q46ds7sjmioj1nj1jn0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIO_fbKBuocA4d529SLMWq8VLw70j4Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061867922589-evgj8oc8toc1q46ds7sjmioj1nj1jn0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
