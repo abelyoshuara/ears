@@ -22,15 +22,15 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 
 # The Team
 - Machine Learning Cohort 
-  Halida Meiza ( M166DSY0404 )
-  Adam Ramdan ( M257DSX0114 )
-  Adam Mail ( M038DSX3055 )
+   -  Halida Meiza ( M166DSY0404 )
+   -  Adam Ramdan ( M257DSX0114 )
+   -  Adam Mail ( M038DSX3055 )
 - Mobile Development Cohort 
-  Raihanna Ilfa Widjayanti Roilan ( A1234M1234 )
+   -  Raihanna Ilfa Widjayanti Roilan ( A1234M1234 )
 - Cloud Computing Cohort 
-  Pande Komang Abel Edgar Yoshuara ( C028DSX3138 ) 
-  Jonathan Adrian Chandra ( C351DSX0762 ) 
-  Syifa Alya Rahmadhani  ( C169DKY4817 )
+   - Pande Komang Abel Edgar Yoshuara ( C028DSX3138 ) 
+   - Jonathan Adrian Chandra ( C351DSX0762 ) 
+   - Syifa Alya Rahmadhani  ( C169DKY4817 )
  
  # Theme
  Post-Pandemic and Emergency Responses
