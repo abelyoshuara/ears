@@ -1,0 +1,565 @@
+{
+  "documents": [
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/0xsN2sibSsKO8a0Nd1tQ",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "5"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.279891
+              },
+              "longitude": {
+                "doubleValue": 112.784872
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "RSU Griya Husada"
+        },
+        "price": {
+          "integerValue": "220000"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.974329Z",
+      "updateTime": "2023-06-07T03:07:59.974329Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/1GKHt3Eugh5T2hpO9Pbt",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.269603
+              },
+              "longitude": {
+                "doubleValue": 112.794389
+              }
+            }
+          }
+        },
+        "room_capacity": {
+          "integerValue": "5"
+        },
+        "name": {
+          "stringValue": "RSIA Medika Husada"
+        },
+        "price": {
+          "integerValue": "230000"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.959776Z",
+      "updateTime": "2023-06-07T03:07:59.959776Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/1qPBCguNBBkzulIZ7xpG",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.266915
+              },
+              "longitude": {
+                "doubleValue": 112.798422
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "190000"
+        },
+        "room_capacity": {
+          "integerValue": "3"
+        },
+        "name": {
+          "stringValue": "RSIA Aria Medika"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.035233Z",
+      "updateTime": "2023-06-07T03:08:00.035233Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/24hCPUw30ul7YnY4nUS5",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "4"
+        },
+        "name": {
+          "stringValue": "RSU Royal Surabaya"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.295793
+              },
+              "longitude": {
+                "doubleValue": 112.719376
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "210000"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.320892Z",
+      "updateTime": "2023-06-07T03:08:00.320892Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/2vICk7BBXRraBXLQ1Q8Q",
+      "fields": {
+        "price": {
+          "integerValue": "200000"
+        },
+        "name": {
+          "stringValue": "RSIA Mediflora"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.279536
+              },
+              "longitude": {
+                "doubleValue": 112.818925
+              }
+            }
+          }
+        },
+        "room_capacity": {
+          "integerValue": "4"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.202925Z",
+      "updateTime": "2023-06-07T03:08:00.202925Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/3MVDrCjFzvOoRjOf9jj5",
+      "fields": {
+        "name": {
+          "stringValue": "Rumah Sakit Cleveland Clinic"
+        },
+        "price": {
+          "integerValue": "230000"
+        },
+        "room_capacity": {
+          "integerValue": "5"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.271875
+              },
+              "longitude": {
+                "doubleValue": 112.808346
+              }
+            }
+          }
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.275529Z",
+      "updateTime": "2023-06-07T03:08:00.275529Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/3kxWcjEIVin3rGWe7Xof",
+      "fields": {
+        "price": {
+          "integerValue": "210000"
+        },
+        "room_capacity": {
+          "integerValue": "4"
+        },
+        "name": {
+          "stringValue": "Rumah Sakit Johns Hopkins"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.28559
+              },
+              "longitude": {
+                "doubleValue": 112.799894
+              }
+            }
+          }
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.229929Z",
+      "updateTime": "2023-06-07T03:08:00.229929Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/3nUPE58KEpqzhkcGSTyr",
+      "fields": {
+        "name": {
+          "stringValue": "RSU Mitra Surabaya"
+        },
+        "room_capacity": {
+          "integerValue": "3"
+        },
+        "price": {
+          "integerValue": "190000"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.28882
+              },
+              "longitude": {
+                "doubleValue": 112.724215
+              }
+            }
+          }
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.127674Z",
+      "updateTime": "2023-06-07T03:08:00.127674Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/4jt1AY8fPi5a362zNFeG",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "3"
+        },
+        "price": {
+          "integerValue": "190000"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.288165
+              },
+              "longitude": {
+                "doubleValue": 112.737865
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "RSU Siaga Raya"
+        }
+      },
+      "createTime": "2023-06-07T03:07:58.685226Z",
+      "updateTime": "2023-06-07T03:07:58.685226Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/6UE1M6wrdT24ANYsFFQZ",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "7"
+        },
+        "price": {
+          "integerValue": "250000"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.276241
+              },
+              "longitude": {
+                "doubleValue": 112.80362
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "Rumah Sakit Mount Sinai"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.251023Z",
+      "updateTime": "2023-06-07T03:08:00.251023Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/6idY5FzTiQX6FymINcb5",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.283518
+              },
+              "longitude": {
+                "doubleValue": 112.740315
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "200000"
+        },
+        "name": {
+          "stringValue": "RSIA Permata Medika"
+        },
+        "room_capacity": {
+          "integerValue": "3"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.250014Z",
+      "updateTime": "2023-06-07T03:08:00.250014Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/7ZwRhsHtt5TQkVwGsaPP",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.255784
+              },
+              "longitude": {
+                "doubleValue": 112.777403
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "RSU Permata Medika"
+        },
+        "price": {
+          "integerValue": "230000"
+        },
+        "room_capacity": {
+          "integerValue": "5"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.121938Z",
+      "updateTime": "2023-06-07T03:08:00.121938Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/7ak0sPvqQa9kI2vqa4RX",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.272471
+              },
+              "longitude": {
+                "doubleValue": 112.802888
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "Rumah Sakit Children's Hospital"
+        },
+        "room_capacity": {
+          "integerValue": "6"
+        },
+        "price": {
+          "integerValue": "240000"
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.127800Z",
+      "updateTime": "2023-06-07T03:08:00.127800Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/9TcJH6Wy9dk14PipUtjF",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "3"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.289752
+              },
+              "longitude": {
+                "doubleValue": 112.807327
+              }
+            }
+          }
+        },
+        "name": {
+          "stringValue": "RSIA Family Medika"
+        },
+        "price": {
+          "integerValue": "190000"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.179601Z",
+      "updateTime": "2023-06-07T03:07:59.179601Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/9osfMchLrJBch3iDOYV9",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.248241
+              },
+              "longitude": {
+                "doubleValue": 112.697344
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "99000"
+        },
+        "name": {
+          "stringValue": "RS Adiguna"
+        },
+        "room_capacity": {
+          "integerValue": "99"
+        }
+      },
+      "createTime": "2023-06-07T04:35:04.969530Z",
+      "updateTime": "2023-06-07T04:35:04.969530Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/APeW5swtUjQdm4Y8HF2I",
+      "fields": {
+        "name": {
+          "stringValue": "Rumah Sakit Saint Theodore"
+        },
+        "room_capacity": {
+          "integerValue": "4"
+        },
+        "price": {
+          "integerValue": "210000"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.276962
+              },
+              "longitude": {
+                "doubleValue": 112.795193
+              }
+            }
+          }
+        }
+      },
+      "createTime": "2023-06-07T03:08:00.341113Z",
+      "updateTime": "2023-06-07T03:08:00.341113Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/BYiLvAzkYjKaV7nacm7a",
+      "fields": {
+        "name": {
+          "stringValue": "RSIA Permata Sehat"
+        },
+        "price": {
+          "integerValue": "190000"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.273605
+              },
+              "longitude": {
+                "doubleValue": 112.764239
+              }
+            }
+          }
+        },
+        "room_capacity": {
+          "integerValue": "3"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.960590Z",
+      "updateTime": "2023-06-07T03:07:59.960590Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/CC5i9dv1Mos6W0lizAfE",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.278944
+              },
+              "longitude": {
+                "doubleValue": 112.814686
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "240000"
+        },
+        "room_capacity": {
+          "integerValue": "6"
+        },
+        "name": {
+          "stringValue": "RSIA Teratai"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.962544Z",
+      "updateTime": "2023-06-07T03:07:59.962544Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/CRH8hwcbPLC5oaToCyoe",
+      "fields": {
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.269149
+              },
+              "longitude": {
+                "doubleValue": 112.806901
+              }
+            }
+          }
+        },
+        "room_capacity": {
+          "integerValue": "3"
+        },
+        "name": {
+          "stringValue": "RSU Aisyiyah Husada"
+        },
+        "price": {
+          "integerValue": "200000"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.268637Z",
+      "updateTime": "2023-06-07T03:07:59.268637Z"
+    },
+    {
+      "name": "projects/ears-project-1/databases/(default)/documents/hospitals/CaAAbN8zx7lN2u6G7JWQ",
+      "fields": {
+        "room_capacity": {
+          "integerValue": "5"
+        },
+        "coordinate": {
+          "mapValue": {
+            "fields": {
+              "latitude": {
+                "doubleValue": -7.285216
+              },
+              "longitude": {
+                "doubleValue": 112.805667
+              }
+            }
+          }
+        },
+        "price": {
+          "integerValue": "230000"
+        },
+        "name": {
+          "stringValue": "Rumah Sakit Toronto General"
+        }
+      },
+      "createTime": "2023-06-07T03:07:59.347967Z",
+      "updateTime": "2023-06-07T03:07:59.347967Z"
+    }
+  ],
+  "nextPageToken": "AFTOeJz2G1ZCjVqnYqU2zozFZM8YbNGmC_9LhmigKSnXaTZgbUp5sIPGAWyzDeNk-oxZUJCNHdVmZsEUkLnjmmeRrleg4StGWsBzilQ9M7QbgYJLEMsOWSJzd9subdNvI7wo-A"
+}
