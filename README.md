@@ -19,3 +19,21 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
 <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Syifa%20Alya&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/url?label=Jonathan%20Adrian&logo=github&logoColor=blue&style=social&url=https%3A%2F%2Fsaweria.co%2Farkun12"></a>
 </div>
+
+*The Team*
+import pandas as pd
+
+data = {
+    'Nama': ['Halida Meiza', 'Adam Ramdan', 'Adam Mail', 'Raihanna Ilfa Widjayanti Roilan', 'Pande Komang Abel Edgar Yoshuara', 'Jonathan Adrian Chandra', 'Syifa Alya Rahmadhani'],
+    'Bangkit ID': ['M166DSY0404', 'M257DSX0114', 'M038DSX3055', 'A1234M1234', 'C028DSX3138', 'C351DSX0762', 'C169DKY4817'],
+    'Learning Path': ['Machine Learning', 'Machine Learning', 'Machine Learning', 'Mobile Development', 'Cloud Computing', 'Cloud Computing', 'Cloud Computing']
+}
+
+df = pd.DataFrame(data)
+
+# Mengatur penjajaran rata kanan pada setiap kolom
+df_styled = df.style.set_properties(**{'text-align': 'right'})
+
+# Mencetak tabel dengan penjajaran rata kanan
+print(df_styled.render())
+
