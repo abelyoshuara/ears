@@ -26,7 +26,7 @@ We tried some hyperparameters in creating the model. These are some of the resul
 
 ![Presentasi Capstone (8)](https://github.com/abelyoshuara/ears-project/assets/128933031/30c3500e-253e-41bf-b948-c48a20ae874d)
 
-- *Second model in nearest distance based on ordinate of Latitude and Longituted  Point of Hospital and Distance from City Center
+- *Second model is nearest distance recommendation based on ordinate of Latitude and Longituted  Point of Hospital and Distance from City Center
 _________ Epoch attempt 100*
 
 ![Presentasi Capstone (9)](https://github.com/abelyoshuara/ears-project/assets/128933031/50a194ff-b7ab-4081-9904-b85325b4e0da)
