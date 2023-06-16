@@ -7,6 +7,21 @@ This repository is designed for efficient Data Preprocessing and model creation 
 4. Convert to TF-Lite
 5. Deploy to Android 
 # Data Collecting 
-
-
+We gather our data from :
+1. Hospital Address
+   Collect name of hospital in Surabaya 
+3. Ordinate Point Hospital
+   Use Latitude - Longtitude of Hospital and Distance from City Center
+5. Hospital Capacity
+   Cost of Service Price, Number of Hospitalization Room Services.
+7. Ratings 
+   Diseases that can be succesfully treated and user facility ratings 
 # Creating Model 
+We tried some hyperparameters in creating the model. These are some of the result.
+__________100 Epoch Attempt
+<div align="center" style="display:flex;">
+<img style="width:45%" src="./../assets/loss.png">
+<img style="width:45%" src="./../assets/accuracy.png">
+<img style="width:45%" src="./../assets/mse.png">
+
+</div>
