@@ -22,7 +22,8 @@ We tried some hyperparameters in creating the model. These are some of the resul
 - *First model in filtering hospital recomendation ____________ Epoch attempt 100*
 ![Presentasi Capstone (7)](https://github.com/abelyoshuara/ears-project/assets/128933031/4213d095-ea2c-488e-9de2-19a1ae25fd67)
 
-After many attemp adjust the hyperparameters and adjusting the epochs size, finally we got the best result we can outcome.
+*After many attemp adjust the hyperparameters and adjusting the epochs size, finally we got the best result we can outcome.*
+
 ![Presentasi Capstone (8)](https://github.com/abelyoshuara/ears-project/assets/128933031/30c3500e-253e-41bf-b948-c48a20ae874d)
 
 - *Second model in nearest distance based on ordinate of Latitude and Longituted  Point of Hospital and Distance from City Center
@@ -30,7 +31,8 @@ _________ Epoch attempt 100*
 
 ![Presentasi Capstone (9)](https://github.com/abelyoshuara/ears-project/assets/128933031/50a194ff-b7ab-4081-9904-b85325b4e0da)
 
-The hyperparameters and adjusting the epoch size for second model, this the last result we can outcome 
+*To optimize the performance of the second model, hyperparameters are adjusted and the epoch size is modified. After several iterations, the final results are obtained.*
+
 ![Presentasi Capstone (10)](https://github.com/abelyoshuara/ears-project/assets/128933031/fce44b51-35a6-4bd2-a29b-5bbee65644f3)
 
 
