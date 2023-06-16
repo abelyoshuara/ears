@@ -18,11 +18,3 @@ We gather our data from :
    - Diseases that can be succesfully treated and user facility ratings 
 # Creating Model 
 We tried some hyperparameters in creating the model. These are some of the result.
-
-__________100 Epoch Attempt
-<div align="center" style="display:flex;">
-<img style="width:45%" src="./../assets/loss.png">
-<img style="width:45%" src="./../assets/accuracy.png">
-<img style="width:45%" src="./../assets/mse.png">
-
-</div>
