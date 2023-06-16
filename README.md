@@ -18,3 +18,9 @@ We gather our data from :
    - Diseases that can be succesfully treated and user facility ratings 
 # Creating Model 
 We tried some hyperparameters in creating the model. These are some of the result.
+First model in hospital recomendation ____________ Epoch attempt 100
+![Presentasi Capstone (7)](https://github.com/abelyoshuara/ears-project/assets/128933031/4213d095-ea2c-488e-9de2-19a1ae25fd67)
+After many attemp adjust the hyperparameters and adjusting the epochs size, finally we got the best result we can outcome.
+![Presentasi Capstone (8)](https://github.com/abelyoshuara/ears-project/assets/128933031/30c3500e-253e-41bf-b948-c48a20ae874d)
+
+
