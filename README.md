@@ -19,7 +19,7 @@ We gather our data from :
 # Creating Model 
 We tried some hyperparameters in creating the model. These are some of the result.
 
-- *First model in filtering hospital recomendation ____________ Epoch attempt 100*
+- *First model in filtering hospital recomendation with content based filtering  ____________ Epoch attempt 100*
 ![Presentasi Capstone (7)](https://github.com/abelyoshuara/ears-project/assets/128933031/4213d095-ea2c-488e-9de2-19a1ae25fd67)
 
 *After many attemp adjust the hyperparameters and adjusting the epochs size, finally we got the best result we can outcome.*
