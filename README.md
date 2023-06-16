@@ -35,5 +35,7 @@ In addition to emergencies, users can search for nearby hospitals and easily loc
  
  # Theme
  Post-Pandemic and Emergency Responses.
+
+ ## Show directory for detail Path
  
 
