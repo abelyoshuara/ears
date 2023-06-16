@@ -9,7 +9,7 @@ This repository used for Data Preprocessing and creating the model for EARS. We 
 # Data Collecting
 > We collect data on hospitals in Surabaya
 # Creating Model 
-_________ 100 epoch for model collaborative filtering nearest hospital
+> _________ 100 epoch for model collaborative filtering nearest hospital
 <div align="center" style="display:flex;">
 <img style="width:45%" src="./../assets/loss.png">
 <img style="width:45%" src="./../assets/accuracy.png">
